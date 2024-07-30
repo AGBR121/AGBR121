@@ -6,9 +6,11 @@ https://portafolio-pi-flax.vercel.app/
 
 ![AGBR121' Github Stats](https://github-readme-stats.vercel.app/api?username=AGBR121&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 <br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AGBR121&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AGBR121&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="GitHub Streak">
+
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AGBR121&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGBR121&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb" alt="Top Languages">
+
 
 ## Contact Me
 [![Mail](https://img.shields.io/badge/-Send%20Email-black?style=for-the-badge&logo=gmail)](mailto:angel.burbano@utp.edu.co)
