@@ -27,12 +27,12 @@
     <tr>
         <td style="width: 30px; height: 30px; text-align: center;">8</td>
         <td style="width: 30px; height: 30px; background-color: #eee;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/r.png" alt="Rook" style="width: 20px; height: 20px;"></td>
-        <td style="width: 30px; height: 30px; background-color: #769656;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/n.png" alt="Knight" style="width: 20px; height: 20px;"></td>
+        <td style="width: 30px; height: 30px; background-color: #769656;"></td>
         <td style="width: 30px; height: 30px; background-color: #eee;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/b.png" alt="Bishop" style="width: 20px; height: 20px;"></td>
         <td style="width: 30px; height: 30px; background-color: #769656;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/q.png" alt="Queen" style="width: 20px; height: 20px;"></td>
         <td style="width: 30px; height: 30px; background-color: #eee;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/k.png" alt="King" style="width: 20px; height: 20px;"></td>
-        <td style="width: 30px; height: 30px; background-color: #769656;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/b.png" alt="Bishop" style="width: 20px; height: 20px;"></td>
-        <td style="width: 30px; height: 30px; background-color: #eee;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/n.png" alt="Knight" style="width: 20px; height: 20px;"></td>
+        <td style="width: 30px; height: 30px; background-color: #769656;"></td>
+        <td style="width: 30px; height: 30px; background-color: #eee;"></td>
         <td style="width: 30px; height: 30px; background-color: #769656;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/r.png" alt="Rook" style="width: 20px; height: 20px;"></td>
     </tr>
     <!-- Fila 7 -->
@@ -41,8 +41,8 @@
         <td style="width: 30px; height: 30px; background-color: #769656;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png" alt="Pawn" style="width: 20px; height: 20px;"></td>
         <td style="width: 30px; height: 30px; background-color: #eee;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png" alt="Pawn" style="width: 20px; height: 20px;"></td>
         <td style="width: 30px; height: 30px; background-color: #769656;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png" alt="Pawn" style="width: 20px; height: 20px;"></td>
-        <td style="width: 30px; height: 30px; background-color: #eee;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png" alt="Pawn" style="width: 20px; height: 20px;"></td>
-        <td style="width: 30px; height: 30px; background-color: #769656;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png" alt="Pawn" style="width: 20px; height: 20px;"></td>
+        <td style="width: 30px; height: 30px; background-color: #eee;"></td>
+        <td style="width: 30px; height: 30px; background-color: #769656;"></td>
         <td style="width: 30px; height: 30px; background-color: #eee;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png" alt="Pawn" style="width: 20px; height: 20px;"></td>
         <td style="width: 30px; height: 30px; background-color: #769656;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png" alt="Pawn" style="width: 20px; height: 20px;"></td>
         <td style="width: 30px; height: 30px; background-color: #eee;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png" alt="Pawn" style="width: 20px; height: 20px;"></td>
@@ -52,10 +52,10 @@
         <td style="width: 30px; height: 30px; text-align: center;">6</td>
         <td style="width: 30px; height: 30px; background-color: #eee;"></td>
         <td style="width: 30px; height: 30px; background-color: #769656;"></td>
+        <td style="width: 30px; height: 30px; background-color: #eee;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/n.png" alt="Knight" style="width: 20px; height: 20px;"></td>
+        <td style="width: 30px; height: 30px; background-color: #769656;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png" alt="Pawn" style="width: 20px; height: 20px;"></td>
         <td style="width: 30px; height: 30px; background-color: #eee;"></td>
-        <td style="width: 30px; height: 30px; background-color: #769656;"></td>
-        <td style="width: 30px; height: 30px; background-color: #eee;"></td>
-        <td style="width: 30px; height: 30px; background-color: #769656;"></td>
+        <td style="width: 30px; height: 30px; background-color: #769656;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/n.png" alt="Knight" style="width: 20px; height: 20px;"></td>
         <td style="width: 30px; height: 30px; background-color: #eee;"></td>
         <td style="width: 30px; height: 30px; background-color: #769656;"></td>
     </tr>
@@ -64,9 +64,9 @@
         <td style="width: 30px; height: 30px; text-align: center;">5</td>
         <td style="width: 30px; height: 30px; background-color: #eee;"></td>
         <td style="width: 30px; height: 30px; background-color: #769656;"></td>
-        <td style="width: 30px; height: 30px; background-color: #eee;"></td>
+        <td style="width: 30px; height: 30px; background-color: #eee;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/b.png" alt="Bishop" style="width: 20px; height: 20px;"></td>
         <td style="width: 30px; height: 30px; background-color: #769656;"></td>
-        <td style="width: 30px; height: 30px; background-color: #eee;"></td>
+        <td style="width: 30px; height: 30px; background-color: #eee;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png" alt="Pawn" style="width: 20px; height: 20px;"></td>
         <td style="width: 30px; height: 30px; background-color: #769656;"></td>
         <td style="width: 30px; height: 30px; background-color: #eee;"></td>
         <td style="width: 30px; height: 30px; background-color: #769656;"></td>
@@ -110,14 +110,14 @@
     <!-- Fila 1 -->
     <tr>
         <td style="width: 30px; height: 30px; text-align: center;">1</td>
-        <td style="width: 30px; height: 30px; background-color: #eee;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/r.png" alt="Rook" style="width: 20px; height: 20px;"></td>
-        <td style="width: 30px; height: 30px; background-color: #769656;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/n.png" alt="Knight" style="width: 20px; height: 20px;"></td>
-        <td style="width: 30px; height: 30px; background-color: #eee;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/b.png" alt="Bishop" style="width: 20px; height: 20px;"></td>
-        <td style="width: 30px; height: 30px; background-color: #769656;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/q.png" alt="Queen" style="width: 20px; height: 20px;"></td>
-        <td style="width: 30px; height: 30px; background-color: #eee;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/k.png" alt="King" style="width: 20px; height: 20px;"></td>
-        <td style="width: 30px; height: 30px; background-color: #769656;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/b.png" alt="Bishop" style="width: 20px; height: 20px;"></td>
-        <td style="width: 30px; height: 30px; background-color: #eee;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/n.png" alt="Knight" style="width: 20px; height: 20px;"></td>
-        <td style="width: 30px; height: 30px; background-color: #769656;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/r.png" alt="Rook" style="width: 20px; height: 20px;"></td>
+        <td style="width: 30px; height: 30px; background-color: #eee;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/R.png" alt="Rook" style="width: 20px; height: 20px;"></td>
+        <td style="width: 30px; height: 30px; background-color: #769656;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/N.png" alt="Knight" style="width: 20px; height: 20px;"></td>
+        <td style="width: 30px; height: 30px; background-color: #eee;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/B.png" alt="Bishop" style="width: 20px; height: 20px;"></td>
+        <td style="width: 30px; height: 30px; background-color: #769656;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/Q.png" alt="Queen" style="width: 20px; height: 20px;"></td>
+        <td style="width: 30px; height: 30px; background-color: #eee;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/K.png" alt="King" style="width: 20px; height: 20px;"></td>
+        <td style="width: 30px; height: 30px; background-color: #769656;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/B.png" alt="Bishop" style="width: 20px; height: 20px;"></td>
+        <td style="width: 30px; height: 30px; background-color: #eee;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/N.png" alt="Knight" style="width: 20px; height: 20px;"></td>
+        <td style="width: 30px; height: 30px; background-color: #769656;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/R.png" alt="Rook" style="width: 20px; height: 20px;"></td>
     </tr>
 </table>
 
