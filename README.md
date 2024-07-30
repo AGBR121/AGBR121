@@ -1,15 +1,35 @@
-## Hi, I'm Angel Burbano 👋
-Fullstack developer
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=righteous&color=ffffff&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=💻+Hi!+👋,+I'm+Angel+♟️;" />
 
-#### Portfolio 
+
+## About me
+<h3>I'm Angel Burbano, a young systems engineer candidate and fullstack developer passionate about learning and improving. I like programming and chess. I spend part of my free time learning more and expanding my knowledge in programming and chess. My dream is to travel the world while doing what I am most passionate about.</h3>
+
+### Portfolio 
 https://portafolio-pi-flax.vercel.app/
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+## 🛠 Technologies and tools
 
-  <!-- Imagen alineada a la derecha -->
-  <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right" style="width: 150px; height: auto;">
+### Backend:
+<img src="https://skillicons.dev/icons?i=postgres,mysql,pnpm,bun,npm,nodejs,nestjs,ts,js,supabase" />
 
-  <!-- Gráfico de estadísticas de GitHub -->
+### Frontend:
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,vite,nextjs,react,bootstrap,docker,redux,"/>
+
+### Tools: 
+<img src="https://skillicons.dev/icons?i=postman,vercel,notion,figma,vscode,git,github,ai,replit" /> 
+
+### Other languages:
+<img src="https://skillicons.dev/icons?i=php,java" />
+
+
+
+## GitHub stats
+</div>
+<div style="display: flex; align-items: flex-start; gap: 10px;">
+
+  <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right" style="width: auto; height: auto;">
+
 <div>
   
 ![AGBR121' Github Stats](https://github-readme-stats.vercel.app/api?username=AGBR121&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
@@ -21,13 +41,15 @@ https://portafolio-pi-flax.vercel.app/
   </div>
 </div>
 
-
+<div align="center">
+  
 ## Contact Me
+ 
 [![Mail](https://img.shields.io/badge/-Send%20Email-black?style=for-the-badge&logo=gmail)](mailto:angel.burbano@utp.edu.co)
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/angel-gabriel-burbano-rodriguez-b26837317/)
 
-
-<table style="border-collapse: collapse; margin: auto;">
+<table style="border-collapse: collapse; margin: auto;" align="center">
     <!-- Encabezado de columnas -->
     <tr>
         <td style="width: 50px; height: 50px;"></td>
@@ -137,19 +159,4 @@ https://portafolio-pi-flax.vercel.app/
         <td style="width: 50px; height: 50px; background-color: #769656;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/R.png" alt="Rook" style="width: 40px; height: 40px;"></td>
     </tr>
 </table>
-
-
-<!--
-**AGBR121/AGBR121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
