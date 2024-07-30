@@ -149,7 +149,7 @@ https://portafolio-pi-flax.vercel.app/
     <tr>
         <td style="text-align: center;">1</td>
         <td style="background-color: #eee; text-align: center;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/R.png" alt="Rook" style="width: 80%;"></td>
-        <td style="background-color: #769656;"></td>
+        <td style="background-color: #769656;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/N.png" alt="Knight" style="width: 80%;"></td>
         <td style="background-color: #eee; text-align: center;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/B.png" alt="Bishop" style="width: 80%;"></td>
         <td style="background-color: #769656; text-align: center;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/Q.png" alt="Queen" style="width: 80%;"></td>
         <td style="background-color: #eee; text-align: center;"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/K.png" alt="King" style="width: 80%;"></td>
