@@ -4,13 +4,21 @@ Fullstack developer
 #### Portfolio 
 https://portafolio-pi-flax.vercel.app/
 
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+  <!-- Imagen alineada a la derecha -->
+  <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right" style="width: 150px; height: auto;">
+
+  <!-- Gráfico de estadísticas de GitHub -->
+<div>
 ![AGBR121' Github Stats](https://github-readme-stats.vercel.app/api?username=AGBR121&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AGBR121&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AGBR121&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
-
+  </div>
+</div>
 
 
 ## Contact Me
