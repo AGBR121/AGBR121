@@ -14,7 +14,7 @@ https://portafolio-pi-flax.vercel.app/
 <img src="https://skillicons.dev/icons?i=postgres,mysql,pnpm,bun,npm,nodejs,nestjs,ts,js,supabase" />
 
 ### Frontend:
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,vite,nextjs,react,bootstrap,docker,redux,"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,vite,nextjs,react,bootstrap,docker,redux"/>
 
 ### Tools: 
 <img src="https://skillicons.dev/icons?i=postman,vercel,notion,figma,vscode,git,github,ai,replit" /> 
