@@ -3,7 +3,7 @@
 
 
 ## About me
-<h3>I'm Angel Burbano, a young computer science candidate and fullstack developer passionate about learning and improving. I like programming and chess. I spend part of my free time learning more and expanding my knowledge in programming and chess. My dream is to travel the world while doing what I am most passionate about.</h3>
+<h3>I'm Angel Burbano, a young computer science candidate and Full-Stack developer passionate about learning and improving. I like programming and chess. I spend part of my free time learning more and expanding my knowledge in programming and chess. My dream is to travel the world while doing what I am most passionate about.</h3>
 
 ### Portfolio 
 https://portafolio-pi-flax.vercel.app/
