@@ -26,11 +26,10 @@ https://portafolio-pi-flax.vercel.app/
 <div align="center">
   <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="center" style="width: 80%; height: auto;">
   <br><br>
-  <img src="https://github-stats-extended.vercel.app/api?username=AGBR121&show_icons=true&theme=tokyonight&hide_border=true" width="50%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=AGBR121&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=AGBR121&theme=tokyonight&hide_border=true" width="48%" />
   <br>
-  <img src="https://streak-stats.demolab.com/?user=AGBR121&theme=tokyonight&hide_border=true" width="50%" />
-  <br>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AGBR121&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AGBR121&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </div>
 
 
