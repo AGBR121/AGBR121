@@ -23,13 +23,14 @@ https://portafolio-pi-flax.vercel.app/
 <img src="https://skillicons.dev/icons?i=php,java,c,cpp" />
 
 ## GitHub stats
-</div>
-
 <div align="center">
   <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="center" style="width: 80%; height: auto;">
   <br><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AGBR121&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="GitHub Streak">   
-  </div>
+  <img src="https://github-stats-extended.vercel.app/api?username=AGBR121&show_icons=true&theme=tokyonight&hide_border=true" width="50%" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=AGBR121&theme=tokyonight&hide_border=true" width="50%" />
+  <br>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AGBR121&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </div>
 
 
